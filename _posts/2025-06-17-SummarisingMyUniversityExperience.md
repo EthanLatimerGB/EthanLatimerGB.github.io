@@ -1,9 +1,12 @@
+
 ---
 layout: post
-title: "A Lookback at my University Projects and Theory"
-date: 2025-06-18
+title:  "Welcome to Jekyll!"
 ---
 
-# This is a quick test draft I will properly fill in later
+# Welcome
 
-Test
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
+
