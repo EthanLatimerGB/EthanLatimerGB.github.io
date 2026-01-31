@@ -1,4 +1,5 @@
 baseURL = 'https://ethanlatimergb.github.io/'
 languageCode = 'en-gb'
-title = 'Hot Takes and Some Occasional Botching'
-theme = 'ananke'
+title = 'Every Day We Stray Further from HEAD'
+theme = 'theme'
+copyright = 'Ethan Latimer'
