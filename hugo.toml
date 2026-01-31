@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://ethanlatimergb.github.io/'
+languageCode = 'en-gb'
+title = 'Hot Takes and Some Occasional Botching'
 theme = 'ananke'
