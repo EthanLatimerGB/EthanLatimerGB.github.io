@@ -29,6 +29,9 @@ body::before {
 
 .main-container {
   max-width: 1440px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .main-content {
@@ -76,10 +79,14 @@ nav {
 }
 
 footer {
+  margin-top: auto;
   border-top: 1px solid #222;
+  background: #00061414;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  padding: 4px 48px;
 }
-
-
 
 a {
   color: #CCCCCC;
@@ -103,7 +110,8 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+p {
   margin: 0;
 }
 
