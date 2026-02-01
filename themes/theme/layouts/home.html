@@ -1,9 +1,13 @@
 {{ define "main" }}
+<div class="main-content">
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <section>
-      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-      {{ .Summary }}
-    </section>
-  {{ end }}
+</div>
+
+<h2>My Recent Posts</h2>
+{{ range site.RegularPages }}
+<section class="blog-container">
+  <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ .Summary }}
+</section>
+{{ end }}
 {{ end }}
