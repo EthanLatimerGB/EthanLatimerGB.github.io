@@ -8,6 +8,11 @@
   --background-color: oklch(0.956 0.0237 88.23);
 
   --primary-background: oklch(0.550 0.1392 50.82);
+  --primary: oklch(0.2 0.1392 50.82);
+
+  --secondary-background: oklch(0.300 0.500 150);
+  --secondary: oklch(0.2 0.5000 150);
+
   --tertiary-background: oklch(0.700 0.0237 88.23);
 }
 
@@ -53,6 +58,23 @@ header {
   .subtext {
     margin-bottom: 24px;
   }
+
+  .back-button-container {
+    height: 64px;
+  }
+
+  .back-button {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    color: #222;
+    padding: 0 16px 0 0;
+    height: 100%;
+  }
+
+  .back-button:hover {
+    background-color: var(--secondary-background);
+  }
 }
 
 footer {
@@ -61,7 +83,7 @@ footer {
 }
 
 a {
-  text-decoration: none;
+  color: var(--secondary);
 }
 
 a:hover {
@@ -80,7 +102,7 @@ nav {
 
   a:hover {
     color: white;
-    background-color: black;
+    background-color: var(--secondary-background);
   }
 }
 

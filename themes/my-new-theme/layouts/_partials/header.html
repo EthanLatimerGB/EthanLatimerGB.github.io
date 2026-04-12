@@ -1,3 +1,12 @@
+<div class="back-button-container">
+        {{ if .Params.back_button_title }}
+        <a class="back-button" href="{{.Params.back_button_url}}">
+                &lt; Return to {{ .Params.back_button_title }}
+        </a>
+        {{ end }}
+</div>
+
+
 {{ if .IsHome }}
 <h1>{{ site.Title }}</h1>
 <div class="subtext">Written by Ethan Latimer.</div>
