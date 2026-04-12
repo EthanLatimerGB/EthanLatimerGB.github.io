@@ -2,19 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Every Day We Stray Further from HEAD</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://ethanlatimergb.github.io/posts/</link>
     <description>Recent content in Posts on Every Day We Stray Further from HEAD</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <copyright>Ethan Latimer</copyright>
-    <lastBuildDate>Sat, 31 Jan 2026 15:32:29 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test Post</title>
-      <link>http://localhost:1313/posts/test-post/</link>
-      <pubDate>Sat, 31 Jan 2026 15:32:29 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test-post/</guid>
-      <description>&lt;p&gt;&lt;em&gt;This is just a test post, this will be deleted later on once I&amp;rsquo;ve written my first blog.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://ethanlatimergb.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
