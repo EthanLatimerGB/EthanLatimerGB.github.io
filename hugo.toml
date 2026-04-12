@@ -1,5 +1,5 @@
 baseURL = 'https://ethanlatimergb.github.io/'
 languageCode = 'en-gb'
 title = 'Every Day We Stray Further from HEAD'
-theme = 'my-theme'
+theme = 'my-new-theme'
 copyright = 'Ethan Latimer'
