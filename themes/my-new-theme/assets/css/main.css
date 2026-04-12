@@ -1,16 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Inconsolata:wght@200..900&display=swap');
 
 :root {
+  /*Font Choice*/
+  --font-base: inconsolata, sans-serif;
+  --font-styled: Alegreya, 'Times New Roman', Times, serif;
+
   --background-color: oklch(0.956 0.0237 88.23);
-  --tertiary-background: oklch(0.550 0.1392 50.82);
+
+  --primary-background: oklch(0.550 0.1392 50.82);
+  --tertiary-background: oklch(0.700 0.0237 88.23);
 }
 
 body {
   color: #222;
   background-color: var(--background-color);
-  font-family: inconsolata, sans-serif;
+  font-family: var(--font-base);
   line-height: 1.5;
   margin: 1rem;
+  font-size: 18px;
 }
 
 .main-container {
@@ -39,18 +46,36 @@ nav {
   gap: 24px;
 }
 
+h1,
+h2 {
+  font-family: var(--font-styled);
+}
+
 h1 {
-  font-family: Alegreya, 'Times New Roman', Times, serif;
-  font-size: 48px;
+  font-size: 3em;
 }
 
 /*
 * Custom Classes
 */
 
-.intro-content-container {
+.post-container {
   border: 1px black solid;
   padding: 24px;
   background-color: var(--tertiary-background);
+  margin-bottom: 8px;
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-base);
+  }
+}
+
+.intro-content-container {
+  background-color: var(--primary-background);
   box-shadow: inset 18px 0 rgba(0, 0, 0, 10%);
+  margin-bottom: 48px;
+
+
 }
