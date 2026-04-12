@@ -10,7 +10,7 @@ back_button_url = "/"
 
 Originally from [Enniskillen, Northern Ireland](https://en.wikipedia.org/wiki/Enniskillen), then spending 4 years at the University of Southampton from 2021-2025 — I doubled-down and refined my passions around computer science in hopes to build cool things that I can look back on. 
 
-Currently, I work as a Software Engineer for (Discovery Education)[https://www.discoveryeducation.com/uk/] in Bath, UK. I try to apply myself constantly and take on new challenges to grow my ever-increasing bank of knowledge and skill.
+Currently, I work as a Software Engineer for [Discovery Education](https://www.discoveryeducation.com/uk/) in Bath, UK. I try to apply myself constantly and take on new challenges to grow my ever-increasing bank of knowledge and skills.
 
 ## Why Did I Build This Site?
 
@@ -33,3 +33,14 @@ This probably means I should probably share my interests, you'll likely see a bl
 
 ## What Technical Things Interest Me
 
+### The FOSS (Free and Open Source) Desktop Ecosystem
+
+### Embedded Hardware
+
+#### Pebble
+
+### Web Development and UX (User Experience)
+
+## Contact Me
+
+[LinkedIn](www.linkedin.com/in/ethan-latimer-b2b8261a1) ⋅ Will add other contact links here later

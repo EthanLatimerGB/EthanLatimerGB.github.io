@@ -7,7 +7,7 @@
 
   --background-color: oklch(0.956 0.0237 88.23);
 
-  --primary-background: oklch(0.550 0.1392 50.82);
+  --primary-background: oklch(0.550 0.300 50.82);
   --primary: oklch(0.2 0.1392 50.82);
 
   --secondary-background: oklch(0.300 0.500 150);
@@ -112,7 +112,9 @@ nav {
 }
 
 h1,
-h2 {
+h2,
+h3,
+h4 {
   font-family: var(--font-styled);
 }
 
