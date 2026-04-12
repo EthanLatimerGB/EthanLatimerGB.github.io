@@ -1,8 +1,10 @@
 baseURL = 'https://ethanlatimergb.github.io/'
 languageCode = 'en-gb'
-title = 'Every Day We Stray Further from HEAD'
 theme = 'my-new-theme'
+
+title = 'Every Day We Stray Further from HEAD'
 copyright = 'Ethan Latimer'
+
 
 [menus]
   [[menus.main]]
@@ -20,3 +22,7 @@ copyright = 'Ethan Latimer'
     pageRef = '/about'
     weight = 30
 
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
