@@ -2,28 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2026-04-12T16:01:28+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-04-12T11:55:49+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/test-post/</loc>
     <lastmod>2026-01-31T15:32:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blue/</loc>
+    <loc>http://localhost:1313/tags/computer-science/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/green/</loc>
+    <loc>http://localhost:1313/tags/linux-and-free-software/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/low-level-programming/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/non-technical/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post-3/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/red/</loc>
+    <loc>http://localhost:1313/tags/project-showcase/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/web-and-user-experience/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/green/</loc>
+    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/post-2/</loc>
+    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/red/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post-1/</loc>

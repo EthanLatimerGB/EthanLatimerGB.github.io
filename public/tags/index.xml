@@ -10,23 +10,58 @@
     <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blue</title>
-      <link>http://localhost:1313/tags/blue/</link>
+      <title>Computer-Science</title>
+      <link>http://localhost:1313/tags/computer-science/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/blue/</guid>
+      <guid>http://localhost:1313/tags/computer-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux-and-Free-Software</title>
+      <link>http://localhost:1313/tags/linux-and-free-software/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/linux-and-free-software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Low-Level-Programming</title>
+      <link>http://localhost:1313/tags/low-level-programming/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/low-level-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Non-Technical</title>
+      <link>http://localhost:1313/tags/non-technical/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/non-technical/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Project-Showcase</title>
+      <link>http://localhost:1313/tags/project-showcase/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/project-showcase/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web-and-User-Experience</title>
+      <link>http://localhost:1313/tags/web-and-user-experience/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/web-and-user-experience/</guid>
       <description></description>
     </item>
     <item>
       <title>Green</title>
       <link>http://localhost:1313/tags/green/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
       <guid>http://localhost:1313/tags/green/</guid>
       <description></description>
     </item>
     <item>
       <title>Red</title>
       <link>http://localhost:1313/tags/red/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
       <guid>http://localhost:1313/tags/red/</guid>
       <description></description>
     </item>
