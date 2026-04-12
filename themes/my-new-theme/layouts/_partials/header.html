@@ -1,9 +1,9 @@
 {{ if .IsHome }}
 <h1>{{ site.Title }}</h1>
-Written by Ethan Latimer.
+<div class="subtext">Written by Ethan Latimer.</div>
 {{ else }}
 <h1>{{ .Title }}</h1>
-<div class="header-sub">A page on <b>'{{ site.Title }}'</b>, written by {{ site.Copyright }}.</div>
+<div class="subtext">A page on <b>'{{ site.Title }}'</b>, written by {{ site.Copyright }}.</div>
 {{ end }}
 
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}

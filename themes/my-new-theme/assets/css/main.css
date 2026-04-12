@@ -12,7 +12,6 @@
 }
 
 body {
-  color: #222;
   font-family: var(--font-base);
   line-height: 1.5;
   font-size: 18px;
@@ -46,6 +45,14 @@ body::before {
 
 header {
   margin-bottom: 24px;
+
+  h1 {
+    margin-bottom: 2px;
+  }
+
+  .subtext {
+    margin-bottom: 24px;
+  }
 }
 
 footer {
@@ -109,8 +116,4 @@ h1 {
   background-color: var(--primary-background);
   box-shadow: inset 18px 0 rgba(0, 0, 0, 10%);
   margin-bottom: 48px;
-}
-
-.header-sub {
-  margin: 16px 0;
 }
